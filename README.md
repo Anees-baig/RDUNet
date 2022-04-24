@@ -61,4 +61,4 @@ Grayscale:
 
 ## Contact
 
-If you have any question about the code or paper, please contact francisco.gurrola@cimat.mx .
+If you have any question about the code or paper, please contact aneesahamed@ieee.org 
